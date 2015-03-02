@@ -57,7 +57,7 @@ int main()
 				arrivals[i].enqueue(toqueue);
 				IDnumber++;
 				//cout << endl;
-				toqueue.Display(current_time, output);                                                           //test
+				//toqueue.Display(current_time, output);                                                           //test
 				//cout << endl;
 			}
 		}
