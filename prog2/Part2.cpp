@@ -12,8 +12,8 @@ int main()
 {
 	int max_time = 50;
 	int current_time = 0;
-	int total_wait_time[4];
-	int cars_passed[4];
+	int total_wait_time[4] = {0};
+	int cars_passed[4] = {0};
 	int IDnumber = 100;
 
 	srand(time(NULL));
@@ -42,8 +42,10 @@ int main()
 	for (int i = 0; i < 16; i++)
 		roundabouts[i] = blank;
 	//cout << "test2" << endl;
+
 	while (current_time < max_time)
 	{
+
 		for (int i = 0; i < 4; i++)
 		{
 			//cout << "test3." <<i<< endl;
@@ -58,6 +60,7 @@ int main()
 				//cout << endl;
 			}
 		}
+
 		temp = roundabouts[0];
 		for (int i = 0; i < 15; i++)
 		{
@@ -69,27 +72,25 @@ int main()
 
 		for (int i = 1; i <= 4; i++)
 		{
-			int index = i * 4-1;
-			//cout << " " << roundabouts[index].GetExit();                                                          //test
-			//cout << " " << roundabouts[index].GetID();
+			int index = (i * 4)-1;
 			if (roundabouts[index].GetExit()==index)
 			{
-				int current_wait = total_wait_time[roundabouts[index].GetEntrance()];
-				//cout << current_wait<<endl;                                                                         //test
-				roundabouts[index].Display(current_time, output);
-				total_wait_time[roundabouts[index].GetEntrance()] = current_wait + (current_time - roundabouts[index].GetTime());
-				cars_passed[roundabouts[index].GetEntrance()]++;
+				total_wait_time[i-1] += (current_time - roundabouts[index].GetTime());
+				cars_passed[i-1]++;
 				roundabouts[index] = blank;
 			}
 		}
 
 		for (int i = 1; i <= 4; i++)
 		{
-			int index = i * 4-1;
+			int index = (i - 1) * 4;
 			if (roundabouts[index].GetID() == 0 && roundabouts[i*4].GetID() == 0)
 			{
-				roundabouts[i-1] = arrivals[i-1].peekFront();
-				arrivals[i-1].dequeue();
+				if (!arrivals[i - 1].isEmpty()){
+					roundabouts[(i - 1) * 4] = arrivals[i - 1].peekFront();
+					arrivals[i - 1].dequeue();
+				}
+
 			}
 		}
 		current_time++;
