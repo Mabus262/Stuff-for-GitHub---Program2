@@ -15,7 +15,10 @@ int main()
 	int total_wait_time[4] = {0};
 	int cars_passed[4] = {0};
 	int IDnumber = 100;
-
+	for(int i = 0; i < 4; i++){
+		total_wait_time[i] = 0;
+		cars_passed[i] = 0;
+	}
 	srand(time(NULL));
 	ofstream output;
 	output.open("output.txt");
@@ -74,11 +77,10 @@ int main()
 			//cout << " " << roundabouts[index].GetID();
 			if (roundabouts[index].GetExit()==index)
 			{
-				int current_wait = total_wait_time[roundabouts[index].GetEntrance()];
 				//cout << current_wait<<endl;                                                                         //test
 				roundabouts[index].Display(current_time, output);
-				total_wait_time[roundabouts[index].GetEntrance()] = current_wait + (current_time - roundabouts[index].GetTime());
-				cars_passed[roundabouts[index].GetEntrance()]++;
+				total_wait_time[i-1] += (current_time - roundabouts[index].GetTime());
+				cars_passed[i-1]++;
 				roundabouts[index] = blank;
 			}
 		}
