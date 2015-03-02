@@ -53,25 +53,29 @@ int main()
 				Car toqueue(IDnumber,(((i+rand()%3+1)*4)-1)%16, current_time,i*4);
 				arrivals[i].enqueue(toqueue);
 				IDnumber++;
-				toqueue.Display(current_time, output);
+				//cout << endl;
+				toqueue.Display(current_time, output);                                                           //test
+				//cout << endl;
 			}
 		}
 		temp = roundabouts[0];
-		for (int i = 1; i < 16; i++)
+		for (int i = 0; i < 15; i++)
 		{
 			//cout << "test4." <<i<< endl;
-			roundabouts[i] = temp;
-			temp = roundabouts[i];
+
+			roundabouts[i] = roundabouts[i+1];
 		}
-		roundabouts[0] = temp;
+		roundabouts[15] = temp;
 
 		for (int i = 1; i <= 4; i++)
 		{
 			int index = i * 4-1;
+			//cout << " " << roundabouts[index].GetExit();                                                          //test
+			//cout << " " << roundabouts[index].GetID();
 			if (roundabouts[index].GetExit()==index)
 			{
 				int current_wait = total_wait_time[roundabouts[index].GetEntrance()];
-				cout << current_wait<<endl;
+				//cout << current_wait<<endl;                                                                         //test
 				roundabouts[index].Display(current_time, output);
 				total_wait_time[roundabouts[index].GetEntrance()] = current_wait + (current_time - roundabouts[index].GetTime());
 				cars_passed[roundabouts[index].GetEntrance()]++;
@@ -82,7 +86,7 @@ int main()
 		for (int i = 1; i <= 4; i++)
 		{
 			int index = i * 4-1;
-			if (roundabouts[index].GetID() != 0 && roundabouts[i*4].GetID() != 0)
+			if (roundabouts[index].GetID() == 0 && roundabouts[i*4].GetID() == 0)
 			{
 				roundabouts[i-1] = arrivals[i-1].peekFront();
 				arrivals[i-1].dequeue();

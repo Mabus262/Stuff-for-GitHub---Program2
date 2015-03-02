@@ -34,8 +34,8 @@ private:
 Car::Car()
 {
 	IDNum = 0;
-	ExitNum = INT_MAX;
-	EnterNum = INT_MAX;
+	ExitNum = -1;
+	EnterNum = -1;
 	timeinQ = 0;
 }
 
@@ -60,6 +60,7 @@ Car & Car::operator=(const Car & right)
 	IDNum = right.IDNum;
 	ExitNum = right.ExitNum;
 	timeinQ = right.timeinQ;
+	EnterNum = right.EnterNum;
 	return *this;
 }
 

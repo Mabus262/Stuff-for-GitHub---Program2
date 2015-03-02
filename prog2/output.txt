@@ -1,0 +1,2153 @@
+*****
+ID: 100
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 0
+Time exited: 0
+Total Time Waiting: 0
+*****
+
+*****
+ID: 101
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 0
+Time exited: 0
+Total Time Waiting: 0
+*****
+
+*****
+ID: 102
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 0
+Time exited: 0
+Total Time Waiting: 0
+*****
+
+*****
+ID: 103
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 0
+Time exited: 0
+Total Time Waiting: 0
+*****
+
+*****
+ID: 104
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 1
+Time exited: 1
+Total Time Waiting: 0
+*****
+
+*****
+ID: 105
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 1
+Time exited: 1
+Total Time Waiting: 0
+*****
+
+*****
+ID: 106
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 1
+Time exited: 1
+Total Time Waiting: 0
+*****
+
+*****
+ID: 107
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 1
+Time exited: 1
+Total Time Waiting: 0
+*****
+
+*****
+ID: 108
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 2
+Time exited: 2
+Total Time Waiting: 0
+*****
+
+*****
+ID: 109
+Exit#: 15
+Entrance#: 4
+Time entered Queue: 2
+Time exited: 2
+Total Time Waiting: 0
+*****
+
+*****
+ID: 110
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 2
+Time exited: 2
+Total Time Waiting: 0
+*****
+
+*****
+ID: 111
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 2
+Time exited: 2
+Total Time Waiting: 0
+*****
+
+*****
+ID: 112
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 3
+Time exited: 3
+Total Time Waiting: 0
+*****
+
+*****
+ID: 113
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 3
+Time exited: 3
+Total Time Waiting: 0
+*****
+
+*****
+ID: 114
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 3
+Time exited: 3
+Total Time Waiting: 0
+*****
+
+*****
+ID: 115
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 3
+Time exited: 3
+Total Time Waiting: 0
+*****
+
+*****
+ID: 116
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 4
+Time exited: 4
+Total Time Waiting: 0
+*****
+
+*****
+ID: 117
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 4
+Time exited: 4
+Total Time Waiting: 0
+*****
+
+*****
+ID: 118
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 4
+Time exited: 4
+Total Time Waiting: 0
+*****
+
+*****
+ID: 119
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 4
+Time exited: 4
+Total Time Waiting: 0
+*****
+
+*****
+ID: 120
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 5
+Time exited: 5
+Total Time Waiting: 0
+*****
+
+*****
+ID: 121
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 5
+Time exited: 5
+Total Time Waiting: 0
+*****
+
+*****
+ID: 122
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 5
+Time exited: 5
+Total Time Waiting: 0
+*****
+
+*****
+ID: 123
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 5
+Time exited: 5
+Total Time Waiting: 0
+*****
+
+*****
+ID: 100
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 0
+Time exited: 5
+Total Time Waiting: 5
+*****
+
+*****
+ID: 124
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 6
+Time exited: 6
+Total Time Waiting: 0
+*****
+
+*****
+ID: 125
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 6
+Time exited: 6
+Total Time Waiting: 0
+*****
+
+*****
+ID: 126
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 6
+Time exited: 6
+Total Time Waiting: 0
+*****
+
+*****
+ID: 127
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 6
+Time exited: 6
+Total Time Waiting: 0
+*****
+
+*****
+ID: 104
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 1
+Time exited: 6
+Total Time Waiting: 5
+*****
+
+*****
+ID: 128
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 7
+Time exited: 7
+Total Time Waiting: 0
+*****
+
+*****
+ID: 129
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 7
+Time exited: 7
+Total Time Waiting: 0
+*****
+
+*****
+ID: 130
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 7
+Time exited: 7
+Total Time Waiting: 0
+*****
+
+*****
+ID: 131
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 7
+Time exited: 7
+Total Time Waiting: 0
+*****
+
+*****
+ID: 108
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 2
+Time exited: 7
+Total Time Waiting: 5
+*****
+
+*****
+ID: 132
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 8
+Time exited: 8
+Total Time Waiting: 0
+*****
+
+*****
+ID: 133
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 8
+Time exited: 8
+Total Time Waiting: 0
+*****
+
+*****
+ID: 134
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 8
+Time exited: 8
+Total Time Waiting: 0
+*****
+
+*****
+ID: 135
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 8
+Time exited: 8
+Total Time Waiting: 0
+*****
+
+*****
+ID: 136
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 9
+Time exited: 9
+Total Time Waiting: 0
+*****
+
+*****
+ID: 137
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 9
+Time exited: 9
+Total Time Waiting: 0
+*****
+
+*****
+ID: 138
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 9
+Time exited: 9
+Total Time Waiting: 0
+*****
+
+*****
+ID: 139
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 9
+Time exited: 9
+Total Time Waiting: 0
+*****
+
+*****
+ID: 140
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 10
+Time exited: 10
+Total Time Waiting: 0
+*****
+
+*****
+ID: 141
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 10
+Time exited: 10
+Total Time Waiting: 0
+*****
+
+*****
+ID: 142
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 10
+Time exited: 10
+Total Time Waiting: 0
+*****
+
+*****
+ID: 143
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 10
+Time exited: 10
+Total Time Waiting: 0
+*****
+
+*****
+ID: 120
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 5
+Time exited: 10
+Total Time Waiting: 5
+*****
+
+*****
+ID: 144
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 11
+Time exited: 11
+Total Time Waiting: 0
+*****
+
+*****
+ID: 145
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 11
+Time exited: 11
+Total Time Waiting: 0
+*****
+
+*****
+ID: 146
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 11
+Time exited: 11
+Total Time Waiting: 0
+*****
+
+*****
+ID: 147
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 11
+Time exited: 11
+Total Time Waiting: 0
+*****
+
+*****
+ID: 124
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 6
+Time exited: 11
+Total Time Waiting: 5
+*****
+
+*****
+ID: 148
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 12
+Time exited: 12
+Total Time Waiting: 0
+*****
+
+*****
+ID: 149
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 12
+Time exited: 12
+Total Time Waiting: 0
+*****
+
+*****
+ID: 150
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 12
+Time exited: 12
+Total Time Waiting: 0
+*****
+
+*****
+ID: 151
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 12
+Time exited: 12
+Total Time Waiting: 0
+*****
+
+*****
+ID: 112
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 3
+Time exited: 12
+Total Time Waiting: 9
+*****
+
+*****
+ID: 152
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 13
+Time exited: 13
+Total Time Waiting: 0
+*****
+
+*****
+ID: 153
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 13
+Time exited: 13
+Total Time Waiting: 0
+*****
+
+*****
+ID: 154
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 13
+Time exited: 13
+Total Time Waiting: 0
+*****
+
+*****
+ID: 155
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 13
+Time exited: 13
+Total Time Waiting: 0
+*****
+
+*****
+ID: 156
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 14
+Time exited: 14
+Total Time Waiting: 0
+*****
+
+*****
+ID: 157
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 14
+Time exited: 14
+Total Time Waiting: 0
+*****
+
+*****
+ID: 158
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 14
+Time exited: 14
+Total Time Waiting: 0
+*****
+
+*****
+ID: 159
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 14
+Time exited: 14
+Total Time Waiting: 0
+*****
+
+*****
+ID: 160
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 15
+Time exited: 15
+Total Time Waiting: 0
+*****
+
+*****
+ID: 161
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 15
+Time exited: 15
+Total Time Waiting: 0
+*****
+
+*****
+ID: 162
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 15
+Time exited: 15
+Total Time Waiting: 0
+*****
+
+*****
+ID: 163
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 15
+Time exited: 15
+Total Time Waiting: 0
+*****
+
+*****
+ID: 140
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 10
+Time exited: 15
+Total Time Waiting: 5
+*****
+
+*****
+ID: 164
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 16
+Time exited: 16
+Total Time Waiting: 0
+*****
+
+*****
+ID: 165
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 16
+Time exited: 16
+Total Time Waiting: 0
+*****
+
+*****
+ID: 166
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 16
+Time exited: 16
+Total Time Waiting: 0
+*****
+
+*****
+ID: 167
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 16
+Time exited: 16
+Total Time Waiting: 0
+*****
+
+*****
+ID: 128
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 7
+Time exited: 16
+Total Time Waiting: 9
+*****
+
+*****
+ID: 168
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 17
+Time exited: 17
+Total Time Waiting: 0
+*****
+
+*****
+ID: 169
+Exit#: 15
+Entrance#: 4
+Time entered Queue: 17
+Time exited: 17
+Total Time Waiting: 0
+*****
+
+*****
+ID: 170
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 17
+Time exited: 17
+Total Time Waiting: 0
+*****
+
+*****
+ID: 171
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 17
+Time exited: 17
+Total Time Waiting: 0
+*****
+
+*****
+ID: 116
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 4
+Time exited: 17
+Total Time Waiting: 13
+*****
+
+*****
+ID: 172
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 18
+Time exited: 18
+Total Time Waiting: 0
+*****
+
+*****
+ID: 173
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 18
+Time exited: 18
+Total Time Waiting: 0
+*****
+
+*****
+ID: 174
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 18
+Time exited: 18
+Total Time Waiting: 0
+*****
+
+*****
+ID: 175
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 18
+Time exited: 18
+Total Time Waiting: 0
+*****
+
+*****
+ID: 136
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 9
+Time exited: 18
+Total Time Waiting: 9
+*****
+
+*****
+ID: 176
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 19
+Time exited: 19
+Total Time Waiting: 0
+*****
+
+*****
+ID: 177
+Exit#: 15
+Entrance#: 4
+Time entered Queue: 19
+Time exited: 19
+Total Time Waiting: 0
+*****
+
+*****
+ID: 178
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 19
+Time exited: 19
+Total Time Waiting: 0
+*****
+
+*****
+ID: 179
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 19
+Time exited: 19
+Total Time Waiting: 0
+*****
+
+*****
+ID: 156
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 14
+Time exited: 19
+Total Time Waiting: 5
+*****
+
+*****
+ID: 180
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 20
+Time exited: 20
+Total Time Waiting: 0
+*****
+
+*****
+ID: 181
+Exit#: 15
+Entrance#: 4
+Time entered Queue: 20
+Time exited: 20
+Total Time Waiting: 0
+*****
+
+*****
+ID: 182
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 20
+Time exited: 20
+Total Time Waiting: 0
+*****
+
+*****
+ID: 183
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 20
+Time exited: 20
+Total Time Waiting: 0
+*****
+
+*****
+ID: 144
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 11
+Time exited: 20
+Total Time Waiting: 9
+*****
+
+*****
+ID: 184
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 21
+Time exited: 21
+Total Time Waiting: 0
+*****
+
+*****
+ID: 185
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 21
+Time exited: 21
+Total Time Waiting: 0
+*****
+
+*****
+ID: 186
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 21
+Time exited: 21
+Total Time Waiting: 0
+*****
+
+*****
+ID: 187
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 21
+Time exited: 21
+Total Time Waiting: 0
+*****
+
+*****
+ID: 132
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 8
+Time exited: 21
+Total Time Waiting: 13
+*****
+
+*****
+ID: 148
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 12
+Time exited: 21
+Total Time Waiting: 9
+*****
+
+*****
+ID: 188
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 22
+Time exited: 22
+Total Time Waiting: 0
+*****
+
+*****
+ID: 189
+Exit#: 15
+Entrance#: 4
+Time entered Queue: 22
+Time exited: 22
+Total Time Waiting: 0
+*****
+
+*****
+ID: 190
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 22
+Time exited: 22
+Total Time Waiting: 0
+*****
+
+*****
+ID: 191
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 22
+Time exited: 22
+Total Time Waiting: 0
+*****
+
+*****
+ID: 192
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 23
+Time exited: 23
+Total Time Waiting: 0
+*****
+
+*****
+ID: 193
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 23
+Time exited: 23
+Total Time Waiting: 0
+*****
+
+*****
+ID: 194
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 23
+Time exited: 23
+Total Time Waiting: 0
+*****
+
+*****
+ID: 195
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 23
+Time exited: 23
+Total Time Waiting: 0
+*****
+
+*****
+ID: 196
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 24
+Time exited: 24
+Total Time Waiting: 0
+*****
+
+*****
+ID: 197
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 24
+Time exited: 24
+Total Time Waiting: 0
+*****
+
+*****
+ID: 198
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 24
+Time exited: 24
+Total Time Waiting: 0
+*****
+
+*****
+ID: 199
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 24
+Time exited: 24
+Total Time Waiting: 0
+*****
+
+*****
+ID: 160
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 15
+Time exited: 24
+Total Time Waiting: 9
+*****
+
+*****
+ID: 200
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 25
+Time exited: 25
+Total Time Waiting: 0
+*****
+
+*****
+ID: 201
+Exit#: 15
+Entrance#: 4
+Time entered Queue: 25
+Time exited: 25
+Total Time Waiting: 0
+*****
+
+*****
+ID: 202
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 25
+Time exited: 25
+Total Time Waiting: 0
+*****
+
+*****
+ID: 203
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 25
+Time exited: 25
+Total Time Waiting: 0
+*****
+
+*****
+ID: 204
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 26
+Time exited: 26
+Total Time Waiting: 0
+*****
+
+*****
+ID: 205
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 26
+Time exited: 26
+Total Time Waiting: 0
+*****
+
+*****
+ID: 206
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 26
+Time exited: 26
+Total Time Waiting: 0
+*****
+
+*****
+ID: 207
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 26
+Time exited: 26
+Total Time Waiting: 0
+*****
+
+*****
+ID: 152
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 13
+Time exited: 26
+Total Time Waiting: 13
+*****
+
+*****
+ID: 164
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 16
+Time exited: 26
+Total Time Waiting: 10
+*****
+
+*****
+ID: 176
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 19
+Time exited: 26
+Total Time Waiting: 7
+*****
+
+*****
+ID: 208
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 27
+Time exited: 27
+Total Time Waiting: 0
+*****
+
+*****
+ID: 209
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 27
+Time exited: 27
+Total Time Waiting: 0
+*****
+
+*****
+ID: 210
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 27
+Time exited: 27
+Total Time Waiting: 0
+*****
+
+*****
+ID: 211
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 27
+Time exited: 27
+Total Time Waiting: 0
+*****
+
+*****
+ID: 180
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 20
+Time exited: 27
+Total Time Waiting: 7
+*****
+
+*****
+ID: 212
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 28
+Time exited: 28
+Total Time Waiting: 0
+*****
+
+*****
+ID: 213
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 28
+Time exited: 28
+Total Time Waiting: 0
+*****
+
+*****
+ID: 214
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 28
+Time exited: 28
+Total Time Waiting: 0
+*****
+
+*****
+ID: 215
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 28
+Time exited: 28
+Total Time Waiting: 0
+*****
+
+*****
+ID: 216
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 29
+Time exited: 29
+Total Time Waiting: 0
+*****
+
+*****
+ID: 217
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 29
+Time exited: 29
+Total Time Waiting: 0
+*****
+
+*****
+ID: 218
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 29
+Time exited: 29
+Total Time Waiting: 0
+*****
+
+*****
+ID: 219
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 29
+Time exited: 29
+Total Time Waiting: 0
+*****
+
+*****
+ID: 220
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 30
+Time exited: 30
+Total Time Waiting: 0
+*****
+
+*****
+ID: 221
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 30
+Time exited: 30
+Total Time Waiting: 0
+*****
+
+*****
+ID: 222
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 30
+Time exited: 30
+Total Time Waiting: 0
+*****
+
+*****
+ID: 223
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 30
+Time exited: 30
+Total Time Waiting: 0
+*****
+
+*****
+ID: 224
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 31
+Time exited: 31
+Total Time Waiting: 0
+*****
+
+*****
+ID: 225
+Exit#: 15
+Entrance#: 4
+Time entered Queue: 31
+Time exited: 31
+Total Time Waiting: 0
+*****
+
+*****
+ID: 226
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 31
+Time exited: 31
+Total Time Waiting: 0
+*****
+
+*****
+ID: 227
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 31
+Time exited: 31
+Total Time Waiting: 0
+*****
+
+*****
+ID: 168
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 17
+Time exited: 31
+Total Time Waiting: 14
+*****
+
+*****
+ID: 228
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 32
+Time exited: 32
+Total Time Waiting: 0
+*****
+
+*****
+ID: 229
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 32
+Time exited: 32
+Total Time Waiting: 0
+*****
+
+*****
+ID: 230
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 32
+Time exited: 32
+Total Time Waiting: 0
+*****
+
+*****
+ID: 231
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 32
+Time exited: 32
+Total Time Waiting: 0
+*****
+
+*****
+ID: 172
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 18
+Time exited: 32
+Total Time Waiting: 14
+*****
+
+*****
+ID: 232
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 33
+Time exited: 33
+Total Time Waiting: 0
+*****
+
+*****
+ID: 233
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 33
+Time exited: 33
+Total Time Waiting: 0
+*****
+
+*****
+ID: 234
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 33
+Time exited: 33
+Total Time Waiting: 0
+*****
+
+*****
+ID: 235
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 33
+Time exited: 33
+Total Time Waiting: 0
+*****
+
+*****
+ID: 188
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 22
+Time exited: 33
+Total Time Waiting: 11
+*****
+
+*****
+ID: 236
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 34
+Time exited: 34
+Total Time Waiting: 0
+*****
+
+*****
+ID: 237
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 34
+Time exited: 34
+Total Time Waiting: 0
+*****
+
+*****
+ID: 238
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 34
+Time exited: 34
+Total Time Waiting: 0
+*****
+
+*****
+ID: 239
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 34
+Time exited: 34
+Total Time Waiting: 0
+*****
+
+*****
+ID: 153
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 13
+Time exited: 34
+Total Time Waiting: 21
+*****
+
+*****
+ID: 240
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 35
+Time exited: 35
+Total Time Waiting: 0
+*****
+
+*****
+ID: 241
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 35
+Time exited: 35
+Total Time Waiting: 0
+*****
+
+*****
+ID: 242
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 35
+Time exited: 35
+Total Time Waiting: 0
+*****
+
+*****
+ID: 243
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 35
+Time exited: 35
+Total Time Waiting: 0
+*****
+
+*****
+ID: 157
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 14
+Time exited: 35
+Total Time Waiting: 21
+*****
+
+*****
+ID: 244
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 36
+Time exited: 36
+Total Time Waiting: 0
+*****
+
+*****
+ID: 245
+Exit#: 15
+Entrance#: 4
+Time entered Queue: 36
+Time exited: 36
+Total Time Waiting: 0
+*****
+
+*****
+ID: 246
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 36
+Time exited: 36
+Total Time Waiting: 0
+*****
+
+*****
+ID: 247
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 36
+Time exited: 36
+Total Time Waiting: 0
+*****
+
+*****
+ID: 184
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 21
+Time exited: 36
+Total Time Waiting: 15
+*****
+
+*****
+ID: 196
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 24
+Time exited: 36
+Total Time Waiting: 12
+*****
+
+*****
+ID: 248
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 37
+Time exited: 37
+Total Time Waiting: 0
+*****
+
+*****
+ID: 249
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 37
+Time exited: 37
+Total Time Waiting: 0
+*****
+
+*****
+ID: 250
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 37
+Time exited: 37
+Total Time Waiting: 0
+*****
+
+*****
+ID: 251
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 37
+Time exited: 37
+Total Time Waiting: 0
+*****
+
+*****
+ID: 252
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 38
+Time exited: 38
+Total Time Waiting: 0
+*****
+
+*****
+ID: 253
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 38
+Time exited: 38
+Total Time Waiting: 0
+*****
+
+*****
+ID: 254
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 38
+Time exited: 38
+Total Time Waiting: 0
+*****
+
+*****
+ID: 255
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 38
+Time exited: 38
+Total Time Waiting: 0
+*****
+
+*****
+ID: 212
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 28
+Time exited: 38
+Total Time Waiting: 10
+*****
+
+*****
+ID: 256
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 39
+Time exited: 39
+Total Time Waiting: 0
+*****
+
+*****
+ID: 257
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 39
+Time exited: 39
+Total Time Waiting: 0
+*****
+
+*****
+ID: 258
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 39
+Time exited: 39
+Total Time Waiting: 0
+*****
+
+*****
+ID: 259
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 39
+Time exited: 39
+Total Time Waiting: 0
+*****
+
+*****
+ID: 192
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 23
+Time exited: 39
+Total Time Waiting: 16
+*****
+
+*****
+ID: 260
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 40
+Time exited: 40
+Total Time Waiting: 0
+*****
+
+*****
+ID: 261
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 40
+Time exited: 40
+Total Time Waiting: 0
+*****
+
+*****
+ID: 262
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 40
+Time exited: 40
+Total Time Waiting: 0
+*****
+
+*****
+ID: 263
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 40
+Time exited: 40
+Total Time Waiting: 0
+*****
+
+*****
+ID: 161
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 15
+Time exited: 40
+Total Time Waiting: 25
+*****
+
+*****
+ID: 264
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 41
+Time exited: 41
+Total Time Waiting: 0
+*****
+
+*****
+ID: 265
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 41
+Time exited: 41
+Total Time Waiting: 0
+*****
+
+*****
+ID: 266
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 41
+Time exited: 41
+Total Time Waiting: 0
+*****
+
+*****
+ID: 267
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 41
+Time exited: 41
+Total Time Waiting: 0
+*****
+
+*****
+ID: 200
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 25
+Time exited: 41
+Total Time Waiting: 16
+*****
+
+*****
+ID: 208
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 27
+Time exited: 41
+Total Time Waiting: 14
+*****
+
+*****
+ID: 268
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 42
+Time exited: 42
+Total Time Waiting: 0
+*****
+
+*****
+ID: 269
+Exit#: 15
+Entrance#: 4
+Time entered Queue: 42
+Time exited: 42
+Total Time Waiting: 0
+*****
+
+*****
+ID: 270
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 42
+Time exited: 42
+Total Time Waiting: 0
+*****
+
+*****
+ID: 271
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 42
+Time exited: 42
+Total Time Waiting: 0
+*****
+
+*****
+ID: 204
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 26
+Time exited: 42
+Total Time Waiting: 16
+*****
+
+*****
+ID: 272
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 43
+Time exited: 43
+Total Time Waiting: 0
+*****
+
+*****
+ID: 273
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 43
+Time exited: 43
+Total Time Waiting: 0
+*****
+
+*****
+ID: 274
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 43
+Time exited: 43
+Total Time Waiting: 0
+*****
+
+*****
+ID: 275
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 43
+Time exited: 43
+Total Time Waiting: 0
+*****
+
+*****
+ID: 276
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 44
+Time exited: 44
+Total Time Waiting: 0
+*****
+
+*****
+ID: 277
+Exit#: 15
+Entrance#: 4
+Time entered Queue: 44
+Time exited: 44
+Total Time Waiting: 0
+*****
+
+*****
+ID: 278
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 44
+Time exited: 44
+Total Time Waiting: 0
+*****
+
+*****
+ID: 279
+Exit#: 15
+Entrance#: 12
+Time entered Queue: 44
+Time exited: 44
+Total Time Waiting: 0
+*****
+
+*****
+ID: 280
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 45
+Time exited: 45
+Total Time Waiting: 0
+*****
+
+*****
+ID: 281
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 45
+Time exited: 45
+Total Time Waiting: 0
+*****
+
+*****
+ID: 282
+Exit#: 11
+Entrance#: 8
+Time entered Queue: 45
+Time exited: 45
+Total Time Waiting: 0
+*****
+
+*****
+ID: 283
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 45
+Time exited: 45
+Total Time Waiting: 0
+*****
+
+*****
+ID: 220
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 30
+Time exited: 45
+Total Time Waiting: 15
+*****
+
+*****
+ID: 284
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 46
+Time exited: 46
+Total Time Waiting: 0
+*****
+
+*****
+ID: 285
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 46
+Time exited: 46
+Total Time Waiting: 0
+*****
+
+*****
+ID: 286
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 46
+Time exited: 46
+Total Time Waiting: 0
+*****
+
+*****
+ID: 287
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 46
+Time exited: 46
+Total Time Waiting: 0
+*****
+
+*****
+ID: 224
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 31
+Time exited: 46
+Total Time Waiting: 15
+*****
+
+*****
+ID: 288
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 47
+Time exited: 47
+Total Time Waiting: 0
+*****
+
+*****
+ID: 289
+Exit#: 11
+Entrance#: 4
+Time entered Queue: 47
+Time exited: 47
+Total Time Waiting: 0
+*****
+
+*****
+ID: 290
+Exit#: 3
+Entrance#: 8
+Time entered Queue: 47
+Time exited: 47
+Total Time Waiting: 0
+*****
+
+*****
+ID: 291
+Exit#: 7
+Entrance#: 12
+Time entered Queue: 47
+Time exited: 47
+Total Time Waiting: 0
+*****
+
+*****
+ID: 216
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 29
+Time exited: 47
+Total Time Waiting: 18
+*****
+
+*****
+ID: 292
+Exit#: 3
+Entrance#: 0
+Time entered Queue: 48
+Time exited: 48
+Total Time Waiting: 0
+*****
+
+*****
+ID: 293
+Exit#: 7
+Entrance#: 4
+Time entered Queue: 48
+Time exited: 48
+Total Time Waiting: 0
+*****
+
+*****
+ID: 294
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 48
+Time exited: 48
+Total Time Waiting: 0
+*****
+
+*****
+ID: 295
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 48
+Time exited: 48
+Total Time Waiting: 0
+*****
+
+*****
+ID: 228
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 32
+Time exited: 48
+Total Time Waiting: 16
+*****
+
+*****
+ID: 236
+Exit#: 11
+Entrance#: 0
+Time entered Queue: 34
+Time exited: 48
+Total Time Waiting: 14
+*****
+
+*****
+ID: 296
+Exit#: 7
+Entrance#: 0
+Time entered Queue: 49
+Time exited: 49
+Total Time Waiting: 0
+*****
+
+*****
+ID: 297
+Exit#: 15
+Entrance#: 4
+Time entered Queue: 49
+Time exited: 49
+Total Time Waiting: 0
+*****
+
+*****
+ID: 298
+Exit#: 15
+Entrance#: 8
+Time entered Queue: 49
+Time exited: 49
+Total Time Waiting: 0
+*****
+
+*****
+ID: 299
+Exit#: 3
+Entrance#: 12
+Time entered Queue: 49
+Time exited: 49
+Total Time Waiting: 0
+*****
+
+
+
+**********
+
+ Queue Number: 0 Total Cars passed: -858993426 Total Wait time at queue: -858993092
+
+
+**********
+
+ Queue Number: 1 Total Cars passed: -858993460 Total Wait time at queue: -858993460
+
+
+**********
+
+ Queue Number: 2 Total Cars passed: -858993460 Total Wait time at queue: -858993460
+
+
+**********
+
+ Queue Number: 3 Total Cars passed: -858993460 Total Wait time at queue: -858993460

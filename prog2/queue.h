@@ -81,17 +81,17 @@ bool Queue<ElementType>::enqueue(const ElementType & a)
 template <class ElementType>
 ElementType Queue<ElementType>::peekFront() const
 {
-	cout << "p1" << endl;
+	//cout << "p1" << endl;
 	ElementType e;
 	if (front != 0)
 	{
 		e = front->data;
-		cout << "p2.1" << endl;
+		//cout << "p2.1" << endl;                                                                  //test
 	}
 	else
 	{
 		cout << "No front, returning garbage" << endl;
-		cout << "p2.2" << endl;
+		//cout << "p2.2" << endl;                                                                  //test
 	}
 	return e;
 }
