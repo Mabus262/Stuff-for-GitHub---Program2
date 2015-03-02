@@ -88,8 +88,11 @@ int main()
 			int index = i * 4-1;
 			if (roundabouts[index].GetID() == 0 && roundabouts[i*4].GetID() == 0)
 			{
-				roundabouts[i-1] = arrivals[i-1].peekFront();
-				arrivals[i-1].dequeue();
+				if (!arrivals[i - 1].isEmpty())
+				{
+					roundabouts[(i - 1) * 4] = arrivals[i - 1].peekFront();
+					arrivals[i - 1].dequeue();
+				}
 			}
 		}
 		current_time++;
