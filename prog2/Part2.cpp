@@ -12,8 +12,8 @@ int main()
 {
 	int max_time = 50;
 	int current_time = 0;
-	int total_wait_time[4];
-	int cars_passed[4];
+	int total_wait_time[4] = {0};
+	int cars_passed[4] = {0};
 	int IDnumber = 100;
 
 	srand(time(NULL));
