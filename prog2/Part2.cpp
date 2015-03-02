@@ -10,82 +10,86 @@ using namespace std;
 
 int main()
 {
-	int MaxTime = 8;
-	int CurrentTime = 0;
-	int totalWaitTime[4] = { 0 };
-	int Carspassed[4] = {0};
+	int max_time = 8;
+	int current_time = 0;
+	int total_wait_time[4];
+	int cars_passed[4];
 	int IDnumber = 100;
 
 	srand(time(NULL));
 	ofstream output;
 	output.open("output.txt");
 
-	double ArrivalRates[4] = {0.15, 0.45, 0.6, 0.30};
+	double arrival_rates[4] = {0.15, 0.45, 0.6, 0.30};
 	cout << "Enter arrival rates";
 	for (int i = 0; i < 4; i++)
 	{
 		cout << "\n" << i + 1 << ":";
-		cin >> ArrivalRates[i];
+		cin >> arrival_rates[i];
 	}
 	//cout << "test1" << endl;
-	Queue<Car> Arrivals[4];
+	Queue<Car> arrivals[4];
 
 	Car blank;
 	Car temp;
-	Car Roundabout[16];
+	Car roundabouts[16];
 	for (int i = 0; i < 16; i++)
-		Roundabout[i] = blank;
+		roundabouts[i] = blank;
 	//cout << "test2" << endl;
-	while (CurrentTime < MaxTime)
+	while (current_time < max_time)
 	{
 		for (int i = 0; i < 4; i++)
 		{
 			//cout << "test3." <<i<< endl;
 			int randarrival=rand()%100;
-			if (randarrival < (ArrivalRates[i] * 100))
+			if (randarrival < (arrival_rates[i] * 100))
 			{
-				Car toqueue(IDnumber,((i+rand()%3+1)*4)%16-1, CurrentTime,i*4);
-				Arrivals[i].enqueue(toqueue);
+				Car toqueue(IDnumber,((i+rand()%3+1)*4)%16-1, current_time,i*4);
+				arrivals[i].enqueue(toqueue);
 				IDnumber++;
 			}
 		}
-		temp = Roundabout[0];
+		temp = roundabouts[0];
 		for (int i = 1; i < 16; i++)
 		{
 			//cout << "test4." <<i<< endl;
-			Roundabout[i] = temp;
-			temp = Roundabout[i];
+			roundabouts[i] = temp;
+			temp = roundabouts[i];
 		}
-		Roundabout[0] = temp;
+		roundabouts[0] = temp;
 
 		for (int i = 1; i <= 4; i++)
 		{
-			if (Roundabout[i * 4-1].GetExit()==i*4-1)
+			int index = i * 4-1;
+			if (roundabouts[index].GetExit()==index)
 			{
-				Roundabout[i * 4 - 1].Display(CurrentTime, output);
-				totalWaitTime[Roundabout[i - 1].GetEntrance()] = totalWaitTime[Roundabout[i - 1].GetEntrance()] + (CurrentTime - Roundabout[i * 4 - 1].GetTime());
-				Carspassed[Roundabout[i * 4 - 1].GetEntrance()]++;
-				Roundabout[i * 4 - 1] = blank;
+				int current_wait = total_wait_time[roundabouts[i - 1].GetEntrance()];
+
+				roundabouts[index].Display(current_time, output);
+				total_wait_time[roundabouts[i - 1].GetEntrance()] = current_wait + (current_time - roundabouts[index].GetTime());
+				cars_passed[roundabouts[index].GetEntrance()]++;
+				roundabouts[index] = blank;
 			}
 		}
 
 		for (int i = 1; i <= 4; i++)
 		{
-			if (Roundabout[i*4-1].GetID()!=0)
+			int index = i * 4-1;
+			if (roundabouts[index].GetID()!=0)
 			{
-				Roundabout[i-1] = Arrivals[i-1].peekFront();
-				Arrivals[i-1].dequeue();
+				roundabouts[i-1] = arrivals[i-1].peekFront();
+				arrivals[i-1].dequeue();
 			}
 		}
-		CurrentTime++;
+		current_time++;
 	}
 
 	for (int i = 0; i < 4; i++)
 	{
 		cout << "\n\n**********\n" << endl;
 		cout << " Queue Number: " << i;
-		cout << " Total Cars passed: " << Carspassed[i];
-		cout << " Total Wait time at queue: " << totalWaitTime[i];
+		cout << " Total Cars passed: " << cars_passed[i];
+		cout << " Total Wait time at queue: " << total_wait_time[i];
 		cout << endl;
 	}
 
@@ -93,8 +97,8 @@ int main()
 	{
 		output << "\n\n**********\n" << endl;
 		output << " Queue Number: " << i;
-		output << " Total Cars passed: " << Carspassed[i];
-		output << " Total Wait time at queue: " << totalWaitTime[i];
+		output << " Total Cars passed: " << cars_passed[i];
+		output << " Total Wait time at queue: " << total_wait_time[i];
 		output << endl;
 	}
 
