@@ -102,7 +102,7 @@ void Car::Display(int timenow, ostream & out) const
 	out << "Entrance#: " << entrance << endl;
 	out << "Time entered Queue: " << timein << endl;
 	out << "Time exited: " << timenow << endl;
-	out << "Total Time Waiting" << timenow - timein << endl;
+	out << "Total Time Waiting: " << timenow - timein << endl;
 	out << "*****\n" << endl;
 	
 	return;

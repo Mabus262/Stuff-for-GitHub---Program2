@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-	int max_time = 8;
+	int max_time = 50;
 	int current_time = 0;
 	int total_wait_time[4];
 	int cars_passed[4];
@@ -31,7 +31,13 @@ int main()
 	Queue<Car> arrivals[4];
 
 	Car blank;
+	//blank.Display(current_time, output);
 	Car temp;
+	/*Car temp(1,1,1,1);
+	arrivals[0].enqueue(temp);
+	arrivals[0].peekFront().Display(current_time, output);
+	arrivals[0].dequeue();*/
+
 	Car roundabouts[16];
 	for (int i = 0; i < 16; i++)
 		roundabouts[i] = blank;
@@ -44,9 +50,10 @@ int main()
 			int randarrival=rand()%100;
 			if (randarrival < (arrival_rates[i] * 100))
 			{
-				Car toqueue(IDnumber,((i+rand()%3+1)*4)%16-1, current_time,i*4);
+				Car toqueue(IDnumber,(((i+rand()%3+1)*4)-1)%16, current_time,i*4);
 				arrivals[i].enqueue(toqueue);
 				IDnumber++;
+				toqueue.Display(current_time, output);
 			}
 		}
 		temp = roundabouts[0];
@@ -63,10 +70,10 @@ int main()
 			int index = i * 4-1;
 			if (roundabouts[index].GetExit()==index)
 			{
-				int current_wait = total_wait_time[roundabouts[i - 1].GetEntrance()];
-
+				int current_wait = total_wait_time[roundabouts[index].GetEntrance()];
+				cout << current_wait<<endl;
 				roundabouts[index].Display(current_time, output);
-				total_wait_time[roundabouts[i - 1].GetEntrance()] = current_wait + (current_time - roundabouts[index].GetTime());
+				total_wait_time[roundabouts[index].GetEntrance()] = current_wait + (current_time - roundabouts[index].GetTime());
 				cars_passed[roundabouts[index].GetEntrance()]++;
 				roundabouts[index] = blank;
 			}
@@ -75,7 +82,7 @@ int main()
 		for (int i = 1; i <= 4; i++)
 		{
 			int index = i * 4-1;
-			if (roundabouts[index].GetID()!=0)
+			if (roundabouts[index].GetID() != 0 && roundabouts[i*4].GetID() != 0)
 			{
 				roundabouts[i-1] = arrivals[i-1].peekFront();
 				arrivals[i-1].dequeue();
